@@ -13,6 +13,3 @@ function gotMsg(request, sender, sendResponse) {
 		mainContent.appendChild(imgElement)
 	}
 }
-
-const button = document.getElementById('logo')
-button.removeChild(button.firstChild)
